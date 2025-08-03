@@ -1,0 +1,63 @@
+##############
+#### PAGE ####
+##############
+page = PAGE
+page {
+    typeNum = 0
+    shortcutIcon = EXT:content_chest/Resources/Public/Icons/favicon.ico
+
+    10 = PAGEVIEW
+    10 {
+        paths {
+            0 = EXT:content_chest/Resources/Private/PageView/
+        }
+        dataProcessing {
+            10 = files
+            10 {
+                references.fieldName = media
+            }
+            20 = menu
+            20 {
+                levels = 2
+                includeSpacer = 1
+                as = mainnavigation
+            }
+            30 = page-content
+        }
+    }
+
+    meta {
+        viewport = width=device-width, initial-scale=1.0
+        robots = noindex,nofollow
+        apple-mobile-web-app-capable = yes
+
+        X-UA-Compatible = IE=edge
+        X-UA-Compatible {
+            attribute = http-equiv
+        }
+    }
+
+    includeCSSLibs {
+
+    }
+
+    includeCSS {
+        content_chest_layout = EXT:content_chest/Resources/Public/Css/layout.css
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        content_chest_scripts = EXT:content_chest/Resources/Public/JavaScript/main.js
+    }
+}

@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="248922ba-b207-4dc4-8cae-474d66770ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/Domain/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/Domain/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/Domain/Repository/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Classes/ViewHelpers/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Configuration/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Configuration/RTE/Default.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/ContentElements/Layouts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/ContentElements/Partials/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/ContentElements/Templates/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/Language/locallang.xlf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/Language/locallang_be.xlf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/Language/locallang_db.xlf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/PageView/Layouts/Default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/PageView/Pages/Default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Private/PageView/Partials/Content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Public/Css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Public/Fonts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Public/Icons/Extension.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Public/Icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/Resources/Public/Images/BackendLayouts/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/ext_conf_template.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/ext_emconf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/ext_localconf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/content_chest/ext_tables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kkroff"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:kkroff/typo3-content-chest.git",
+    "accountId": "22931ba0-4d44-4e31-8e5e-f2a2ac3da0fa"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="30mDzBaCNdU2X2HKZtVhun75cgk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/christoph.jerchel/Projekte/typo3-content-chest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/packages/content_chest/Configuration/TypoScript" />
+      <recent name="$PROJECT_DIR$/packages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PS-243.22562.164" />
+        <option value="bundled-php-predefined-a98d8de5180a-7980c7aaca61-com.jetbrains.php.sharedIndexes-PS-243.22562.164" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248922ba-b207-4dc4-8cae-474d66770ea3" name="Changes" comment="" />
+      <created>1754224115065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754224115065</updated>
+      <workItem from="1754224116063" duration="5089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
