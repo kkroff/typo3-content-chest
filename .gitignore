@@ -9,3 +9,4 @@ nbproject
 node_modules/
 
 .php-cs-fixer.cache
+/packages/content_chest/Resources/Public/Css

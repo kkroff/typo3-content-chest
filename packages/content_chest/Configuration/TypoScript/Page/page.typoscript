@@ -42,7 +42,7 @@ page {
     }
 
     includeCSS {
-        content_chest_layout = EXT:content_chest/Resources/Public/Css/layout.css
+        content_chest_layout = EXT:content_chest/Resources/Public/Css/main.css
     }
 
     includeJSLibs {
